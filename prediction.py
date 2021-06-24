@@ -1,4 +1,4 @@
-#作ったパラメータを利用してPPIが層状性か対流性かを判定するテストファイル
+#作ったパラメータを利用してPPIが層状性か対流性かを判別してそれぞれのディレクトリに振り分ける
 import keras
 import sys, os, glob
 import numpy as np
